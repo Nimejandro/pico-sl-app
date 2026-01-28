@@ -1,0 +1,16 @@
+.program matrix
+
+; Out pins: R1,G1,B1,R2,G2,B2 (6 pins)
+; Side-set: CLK (1 pin)
+
+.side_set 1
+
+; We shift out 16 bits at a time (2 pixels) because each "word" is 16 bits.
+; Bits order: R1,G1,B1,R2,G2,B2 for each pixel
+
+
+loop:
+    out pins, 6        side 0   ; output 6 bits
+    nop                side 1   ; CLK high
+    nop                side 0   ; CLK low
+    jmp loop           side 0
