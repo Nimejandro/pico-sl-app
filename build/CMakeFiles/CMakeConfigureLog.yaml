@@ -75,6 +75,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
   -
@@ -125,6 +130,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
   -
@@ -175,6 +185,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
   -
@@ -225,6 +240,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
   -
@@ -275,6 +295,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
   -
@@ -367,6 +392,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -418,6 +448,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -499,6 +534,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -590,6 +630,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -659,6 +704,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -728,6 +778,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -797,6 +852,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -866,6 +926,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -935,6 +1000,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1049,6 +1119,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1118,6 +1193,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1232,6 +1312,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1370,6 +1455,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1508,6 +1598,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1559,6 +1654,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1640,6 +1740,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1800,6 +1905,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -1938,6 +2048,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -2067,6 +2182,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -2183,6 +2303,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_FIND_ROOT_PATH: "/Users/Nima/.pico-sdk/toolchain/14_2_Rel1"
@@ -2195,8 +2320,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-pkVrQg"
-      binary: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-pkVrQg"
+      source: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-JRY9hP"
+      binary: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-JRY9hP"
     cmakeVariables:
       CMAKE_C_FLAGS: "-mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse"
       CMAKE_C_FLAGS_DEBUG: "-Og -g"
@@ -2207,10 +2332,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-pkVrQg'
+        Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-JRY9hP'
         
-        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_c283d
-        [1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_2f385
+        [1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc
         Target: arm-none-eabi
@@ -2218,8 +2343,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_c283d.dir/'
-         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_c283d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccvJIeA7.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_2f385.dir/'
+         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_2f385.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccs5EfTf.s
         GNU C11 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)
         	compiled by GNU C version Apple LLVM 13.0.0 (clang-1300.0.29.30), GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -2236,13 +2361,13 @@ events:
          /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 37d23b2e3347d18c1231e07805cbe085
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_c283d.dir/'
-         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccvJIeA7.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_2f385.dir/'
+         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccs5EfTf.s
         GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
         COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.'
-        [2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o -o cmTC_c283d.elf   && :
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.'
+        [2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o -o cmTC_2f385.elf   && :
         Using built-in specs.
         COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc
         COLLECT_LTO_WRAPPER=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper
@@ -2253,10 +2378,10 @@ events:
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
         COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_c283d.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_c283d.elf.'
-         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//cc8NwZEe.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_c283d.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_2f385.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_2f385.elf.'
+         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccbw89k4.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_2f385.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o
         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld: warning: cannot find entry symbol _start; defaulting to 00008000
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_c283d.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_c283d.elf.'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_2f385.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_2f385.elf.'
         
       exitCode: 0
   -
@@ -2289,10 +2414,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-pkVrQg']
+        ignore line: [Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-JRY9hP']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_c283d]
-        ignore line: [[1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_2f385]
+        ignore line: [[1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu11   -v -o CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o -c /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc]
         ignore line: [Target: arm-none-eabi]
@@ -2300,8 +2425,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_c283d.dir/']
-        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_c283d.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccvJIeA7.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_2f385.dir/']
+        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_2f385.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu11 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccs5EfTf.s]
         ignore line: [GNU C11 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version Apple LLVM 13.0.0 (clang-1300.0.29.30)  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -2318,13 +2443,13 @@ events:
         ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 37d23b2e3347d18c1231e07805cbe085]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_c283d.dir/']
-        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccvJIeA7.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_2f385.dir/']
+        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccs5EfTf.s]
         ignore line: [GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119]
         ignore line: [COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/]
         ignore line: [LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.']
-        ignore line: [[2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o -o cmTC_c283d.elf   && :]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu11' '-v' '-o' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.']
+        ignore line: [[2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o -o cmTC_2f385.elf   && :]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-gcc]
         ignore line: [COLLECT_LTO_WRAPPER=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper]
@@ -2335,17 +2460,17 @@ events:
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
         ignore line: [COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/]
         ignore line: [LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_c283d.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_c283d.elf.']
-        link line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//cc8NwZEe.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_c283d.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_2f385.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_2f385.elf.']
+        link line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccbw89k4.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_2f385.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o]
           arg [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//cc8NwZEe.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccbw89k4.res] ==> ignore
           arg [--sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi] ==> ignore
           arg [-X] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_c283d.elf] ==> ignore
+          arg [cmTC_2f385.elf] ==> ignore
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
@@ -2354,10 +2479,10 @@ events:
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib]
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib]
           arg [--build-id=none] ==> ignore
-          arg [CMakeFiles/cmTC_c283d.dir/CMakeCCompilerABI.c.o] ==> ignore
+          arg [CMakeFiles/cmTC_2f385.dir/CMakeCCompilerABI.c.o] ==> ignore
         ignore line: [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_c283d.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_c283d.elf.']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_2f385.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_2f385.elf.']
         ignore line: []
         ignore line: []
         collapse library dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
@@ -2382,8 +2507,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-Lmr0fv"
-      binary: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-Lmr0fv"
+      source: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-wAEjUn"
+      binary: "/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-wAEjUn"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "-mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse"
       CMAKE_CXX_FLAGS_DEBUG: "-Og -g"
@@ -2395,10 +2520,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-Lmr0fv'
+        Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-wAEjUn'
         
-        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_8c1a8
-        [1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_cbce8
+        [1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++
         Target: arm-none-eabi
@@ -2406,8 +2531,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_8c1a8.dir/'
-         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_8c1a8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccQHDEH4.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_cbce8.dir/'
+         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_cbce8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccuPYhYT.s
         GNU C++17 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)
         	compiled by GNU C version Apple LLVM 13.0.0 (clang-1300.0.29.30), GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -2430,13 +2555,13 @@ events:
          /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 27b9f5562618372de894011fc251f42d
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_8c1a8.dir/'
-         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccQHDEH4.s
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_cbce8.dir/'
+         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccuPYhYT.s
         GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
         COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++ -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_8c1a8.elf   && :
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++ -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl,--build-id=none -nostdlib  -v CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_cbce8.elf   && :
         Using built-in specs.
         COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++
         COLLECT_LTO_WRAPPER=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper
@@ -2447,10 +2572,10 @@ events:
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
         COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_8c1a8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_8c1a8.elf.'
-         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccSyIbNH.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_8c1a8.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_cbce8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_cbce8.elf.'
+         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccAuI7Bu.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_cbce8.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o
         /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld: warning: cannot find entry symbol _start; defaulting to 00008000
-        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_8c1a8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_8c1a8.elf.'
+        COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_cbce8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_cbce8.elf.'
         
       exitCode: 0
   -
@@ -2489,10 +2614,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-Lmr0fv']
+        ignore line: [Change Dir: '/Users/Nima/Documents/GitHub/pico-sl-app/build/CMakeFiles/CMakeScratch/TryCompile-wAEjUn']
         ignore line: []
-        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_8c1a8]
-        ignore line: [[1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): /opt/homebrew/bin/ninja -v cmTC_cbce8]
+        ignore line: [[1/2] /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++   -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse  -std=gnu++17   -v -o CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o -c /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++]
         ignore line: [Target: arm-none-eabi]
@@ -2500,8 +2625,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_8c1a8.dir/']
-        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_8c1a8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccQHDEH4.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_cbce8.dir/']
+        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1plus -quiet -v -imultilib thumb/v8-m.main+fp/softfp -iprefix /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -D__USES_INITFINI__ /opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_cbce8.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mcpu=cortex-m33 -mthumb -mfloat-abi=softfp -mcmse -mlibarch=armv8-m.main+dsp+fp -march=armv8-m.main+dsp+fp -std=gnu++17 -version -o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccuPYhYT.s]
         ignore line: [GNU C++17 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version Apple LLVM 13.0.0 (clang-1300.0.29.30)  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -2524,13 +2649,13 @@ events:
         ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 27b9f5562618372de894011fc251f42d]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_8c1a8.dir/']
-        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccQHDEH4.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_cbce8.dir/']
+        ignore line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as -v -march=armv8-m.main+dsp+fp -mfloat-abi=softfp -meabi=5 -o CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o /var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccuPYhYT.s]
         ignore line: [GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119]
         ignore line: [COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/]
         ignore line: [LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++ -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_8c1a8.elf   && :]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-std=gnu++17' '-v' '-o' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] : && /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++ -mcpu=cortex-m33 -mthumb -march=armv8-m.main+fp+dsp -mfloat-abi=softfp -mcmse -Wl --build-id=none -nostdlib  -v CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_cbce8.elf   && :]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-g++]
         ignore line: [COLLECT_LTO_WRAPPER=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper]
@@ -2541,17 +2666,17 @@ events:
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
         ignore line: [COMPILER_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/]
         ignore line: [LIBRARY_PATH=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/:/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_8c1a8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_8c1a8.elf.']
-        link line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccSyIbNH.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_8c1a8.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_cbce8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_cbce8.elf.']
+        link line: [ /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2 -plugin /Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so -plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper -plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccAuI7Bu.res --sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi -X -o cmTC_cbce8.elf -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1 -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib -L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib --build-id=none CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o]
           arg [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../libexec/gcc/arm-none-eabi/14.2.1/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccSyIbNH.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/var/folders/4d/_ndjs_pn54z6nvzd24l1f3240000gn/T//ccAuI7Bu.res] ==> ignore
           arg [--sysroot=/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi] ==> ignore
           arg [-X] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_8c1a8.elf] ==> ignore
+          arg [cmTC_cbce8.elf] ==> ignore
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp]
@@ -2560,10 +2685,10 @@ events:
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib]
           arg [-L/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib] ==> dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../arm-none-eabi/lib]
           arg [--build-id=none] ==> ignore
-          arg [CMakeFiles/cmTC_8c1a8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_cbce8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
         ignore line: [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/ld: warning: cannot find entry symbol _start]
         ignore line: [ defaulting to 00008000]
-        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_8c1a8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_8c1a8.elf.']
+        ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m33' '-mthumb'  '-mfloat-abi=softfp' '-mcmse' '-nostdlib' '-v' '-o' 'cmTC_cbce8.elf' '-mlibarch=armv8-m.main+dsp+fp' '-march=armv8-m.main+dsp+fp' '-dumpdir' 'cmTC_cbce8.elf.']
         ignore line: []
         ignore line: []
         collapse library dir [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp] ==> [/Users/Nima/.pico-sdk/toolchain/14_2_Rel1/lib/gcc/arm-none-eabi/14.2.1/thumb/v8-m.main+fp/softfp]
@@ -2776,6 +2901,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_INSTALL_PREFIX: "/usr/local"
@@ -2923,6 +3053,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_INSTALL_PREFIX: "/usr/local"
@@ -3078,6 +3213,11 @@ events:
         - "/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin"
         - "/Library/Apple/usr/bin"
         - "/Applications/VMware Fusion.app/Contents/Public"
+        - "/opt/homebrew/opt/arm-none-eabi-gcc/bin"
+        - "/Users/Nima/.nvm/versions/node/v14.21.3/bin"
+        - "/Users/Nima/.pyenv/shims"
+        - "/opt/homebrew/opt/node@18/bin"
+        - "/opt/homebrew/opt/node@14/bin"
         - "/Users/Nima/Library/Android/sdk/emulator"
         - "/Users/Nima/Library/Android/sdk/platform-tools"
       CMAKE_INSTALL_PREFIX: "/usr/local"

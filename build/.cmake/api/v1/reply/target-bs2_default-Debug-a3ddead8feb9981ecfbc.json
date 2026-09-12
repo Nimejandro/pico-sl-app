@@ -135,7 +135,7 @@
 				},
 				{
 					"backtrace" : 8,
-					"define" : "PICO_BOARD=\"pico2\""
+					"define" : "PICO_BOARD=\"pico2_w\""
 				},
 				{
 					"backtrace" : 8,

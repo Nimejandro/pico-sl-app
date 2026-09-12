@@ -16,6 +16,8 @@
 			"pico_add_extra_outputs",
 			"target_link_libraries",
 			"pico_define_boot_stage2",
+			"add_dependencies",
+			"pico_generate_pio_header",
 			"add_custom_command",
 			"pico_add_dis_output",
 			"target_compile_definitions",
@@ -29,6 +31,8 @@
 			"/Users/Nima/.pico-sdk/sdk/2.2.0/src/CMakeLists.txt",
 			"/Users/Nima/.pico-sdk/sdk/2.2.0/src/cmake/on_device.cmake",
 			"/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2350/boot_stage2/CMakeLists.txt",
+			"/Users/Nima/.pico-sdk/sdk/2.2.0/tools/CMakeLists.txt",
+			"/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/CMakeLists.txt",
 			"/Users/Nima/.pico-sdk/sdk/2.2.0/src/common/pico_binary_info/CMakeLists.txt"
 		],
 		"nodes" : 
@@ -82,10 +86,19 @@
 				"parent" : 7
 			},
 			{
-				"command" : 4,
-				"file" : 0,
-				"line" : 61,
-				"parent" : 0
+				"file" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 51,
+				"parent" : 9
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 265,
+				"parent" : 10
 			},
 			{
 				"command" : 4,
@@ -94,49 +107,55 @@
 				"parent" : 0
 			},
 			{
-				"command" : 7,
+				"command" : 4,
+				"file" : 0,
+				"line" : 61,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
 				"file" : 2,
 				"line" : 76,
 				"parent" : 2
 			},
 			{
-				"command" : 6,
+				"command" : 8,
 				"file" : 2,
 				"line" : 60,
-				"parent" : 11
+				"parent" : 14
 			},
 			{
-				"command" : 9,
+				"command" : 11,
 				"file" : 0,
 				"line" : 40,
 				"parent" : 0
 			},
 			{
-				"command" : 8,
-				"file" : 4,
+				"command" : 10,
+				"file" : 6,
 				"line" : 18,
-				"parent" : 13
+				"parent" : 16
 			},
 			{
-				"command" : 10,
+				"command" : 12,
 				"file" : 0,
 				"line" : 41,
 				"parent" : 0
 			},
 			{
-				"command" : 8,
-				"file" : 4,
+				"command" : 10,
+				"file" : 6,
 				"line" : 48,
-				"parent" : 15
+				"parent" : 18
 			},
 			{
-				"command" : 8,
+				"command" : 10,
 				"file" : 2,
 				"line" : 93,
 				"parent" : 2
 			},
 			{
-				"command" : 11,
+				"command" : 13,
 				"file" : 0,
 				"line" : 52,
 				"parent" : 0
@@ -155,12 +174,16 @@
 			"id" : "pico_stdlib::@bdd74ac35cb4d45b5067"
 		},
 		{
-			"backtrace" : 10,
+			"backtrace" : 12,
 			"id" : "hardware_clocks::@252b8e5380721ae85cc3"
 		},
 		{
-			"backtrace" : 9,
+			"backtrace" : 13,
 			"id" : "pico_stdlib::@bdd74ac35cb4d45b5067"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "pico_cyw43_arch_none::@ee5b8847815b1d733645"
 		}
 	],
 	"compileGroups" : 
@@ -211,8 +234,16 @@
 					"define" : "CFG_TUSB_OS=OPT_OS_PICO"
 				},
 				{
+					"backtrace" : 13,
+					"define" : "CYW43_LWIP=0"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "LIB_BOOT_STAGE2_HEADERS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "LIB_PICO_ASYNC_CONTEXT_THREADSAFE_BACKGROUND=1"
 				},
 				{
 					"backtrace" : 5,
@@ -237,6 +268,10 @@
 				{
 					"backtrace" : 5,
 					"define" : "LIB_PICO_CXX_OPTIONS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "LIB_PICO_CYW43_ARCH=1"
 				},
 				{
 					"backtrace" : 5,
@@ -392,7 +427,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PICO_BOARD=\"pico2\""
+					"define" : "PICO_BOARD=\"pico2_w\""
 				},
 				{
 					"backtrace" : 5,
@@ -411,6 +446,10 @@
 					"define" : "PICO_CXX_ENABLE_EXCEPTIONS=0"
 				},
 				{
+					"backtrace" : 13,
+					"define" : "PICO_CYW43_ARCH_THREADSAFE_BACKGROUND=1"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "PICO_NO_FLASH=0"
 				},
@@ -423,11 +462,11 @@
 					"define" : "PICO_ON_DEVICE=1"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 17,
 					"define" : "PICO_PROGRAM_NAME=\"blink\""
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 19,
 					"define" : "PICO_PROGRAM_VERSION_STRING=\"0.1\""
 				},
 				{
@@ -439,7 +478,7 @@
 					"define" : "PICO_RP2350=1"
 				},
 				{
-					"backtrace" : 17,
+					"backtrace" : 20,
 					"define" : "PICO_TARGET_NAME=\"blink\""
 				},
 				{
@@ -450,7 +489,7 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 18,
+					"backtrace" : 21,
 					"path" : "/Users/Nima/Documents/GitHub/pico-sl-app/blink"
 				},
 				{
@@ -460,6 +499,10 @@
 				{
 					"backtrace" : 5,
 					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/tinyusb/src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/Users/Nima/Documents/GitHub/pico-sl-app/build/pico-sdk/src/rp2_common/pico_cyw43_driver"
 				},
 				{
 					"backtrace" : 5,
@@ -745,6 +788,51 @@
 					"backtrace" : 5,
 					"isSystem" : true,
 					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/firmware"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cybt_shared_bus"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pio/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_dma/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_exception/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_async_context/include"
 				}
 			],
 			"language" : "CXX",
@@ -792,8 +880,16 @@
 					"define" : "CFG_TUSB_OS=OPT_OS_PICO"
 				},
 				{
+					"backtrace" : 13,
+					"define" : "CYW43_LWIP=0"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "LIB_BOOT_STAGE2_HEADERS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "LIB_PICO_ASYNC_CONTEXT_THREADSAFE_BACKGROUND=1"
 				},
 				{
 					"backtrace" : 5,
@@ -818,6 +914,10 @@
 				{
 					"backtrace" : 5,
 					"define" : "LIB_PICO_CXX_OPTIONS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "LIB_PICO_CYW43_ARCH=1"
 				},
 				{
 					"backtrace" : 5,
@@ -973,7 +1073,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PICO_BOARD=\"pico2\""
+					"define" : "PICO_BOARD=\"pico2_w\""
 				},
 				{
 					"backtrace" : 5,
@@ -992,6 +1092,10 @@
 					"define" : "PICO_CXX_ENABLE_EXCEPTIONS=0"
 				},
 				{
+					"backtrace" : 13,
+					"define" : "PICO_CYW43_ARCH_THREADSAFE_BACKGROUND=1"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "PICO_NO_FLASH=0"
 				},
@@ -1004,11 +1108,11 @@
 					"define" : "PICO_ON_DEVICE=1"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 17,
 					"define" : "PICO_PROGRAM_NAME=\"blink\""
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 19,
 					"define" : "PICO_PROGRAM_VERSION_STRING=\"0.1\""
 				},
 				{
@@ -1020,7 +1124,7 @@
 					"define" : "PICO_RP2350=1"
 				},
 				{
-					"backtrace" : 17,
+					"backtrace" : 20,
 					"define" : "PICO_TARGET_NAME=\"blink\""
 				},
 				{
@@ -1031,7 +1135,7 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 18,
+					"backtrace" : 21,
 					"path" : "/Users/Nima/Documents/GitHub/pico-sl-app/blink"
 				},
 				{
@@ -1041,6 +1145,10 @@
 				{
 					"backtrace" : 5,
 					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/tinyusb/src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/Users/Nima/Documents/GitHub/pico-sl-app/build/pico-sdk/src/rp2_common/pico_cyw43_driver"
 				},
 				{
 					"backtrace" : 5,
@@ -1326,6 +1434,51 @@
 					"backtrace" : 5,
 					"isSystem" : true,
 					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/firmware"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cybt_shared_bus"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pio/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_dma/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_exception/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_async_context/include"
 				}
 			],
 			"language" : "C",
@@ -1407,7 +1560,24 @@
 				77,
 				78,
 				79,
-				80
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97
 			]
 		},
 		{
@@ -1440,8 +1610,16 @@
 					"define" : "CFG_TUSB_OS=OPT_OS_PICO"
 				},
 				{
+					"backtrace" : 13,
+					"define" : "CYW43_LWIP=0"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "LIB_BOOT_STAGE2_HEADERS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "LIB_PICO_ASYNC_CONTEXT_THREADSAFE_BACKGROUND=1"
 				},
 				{
 					"backtrace" : 5,
@@ -1466,6 +1644,10 @@
 				{
 					"backtrace" : 5,
 					"define" : "LIB_PICO_CXX_OPTIONS=1"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "LIB_PICO_CYW43_ARCH=1"
 				},
 				{
 					"backtrace" : 5,
@@ -1621,7 +1803,7 @@
 				},
 				{
 					"backtrace" : 5,
-					"define" : "PICO_BOARD=\"pico2\""
+					"define" : "PICO_BOARD=\"pico2_w\""
 				},
 				{
 					"backtrace" : 5,
@@ -1640,6 +1822,10 @@
 					"define" : "PICO_CXX_ENABLE_EXCEPTIONS=0"
 				},
 				{
+					"backtrace" : 13,
+					"define" : "PICO_CYW43_ARCH_THREADSAFE_BACKGROUND=1"
+				},
+				{
 					"backtrace" : 5,
 					"define" : "PICO_NO_FLASH=0"
 				},
@@ -1652,11 +1838,11 @@
 					"define" : "PICO_ON_DEVICE=1"
 				},
 				{
-					"backtrace" : 14,
+					"backtrace" : 17,
 					"define" : "PICO_PROGRAM_NAME=\"blink\""
 				},
 				{
-					"backtrace" : 16,
+					"backtrace" : 19,
 					"define" : "PICO_PROGRAM_VERSION_STRING=\"0.1\""
 				},
 				{
@@ -1668,7 +1854,7 @@
 					"define" : "PICO_RP2350=1"
 				},
 				{
-					"backtrace" : 17,
+					"backtrace" : 20,
 					"define" : "PICO_TARGET_NAME=\"blink\""
 				},
 				{
@@ -1679,7 +1865,7 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 18,
+					"backtrace" : 21,
 					"path" : "/Users/Nima/Documents/GitHub/pico-sl-app/blink"
 				},
 				{
@@ -1689,6 +1875,10 @@
 				{
 					"backtrace" : 5,
 					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/tinyusb/src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/Users/Nima/Documents/GitHub/pico-sl-app/build/pico-sdk/src/rp2_common/pico_cyw43_driver"
 				},
 				{
 					"backtrace" : 5,
@@ -1974,6 +2164,51 @@
 					"backtrace" : 5,
 					"isSystem" : true,
 					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/firmware"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cybt_shared_bus"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pio/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_dma/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_exception/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/include"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_async_context/include"
 				}
 			],
 			"language" : "ASM",
@@ -1997,6 +2232,10 @@
 		{
 			"backtrace" : 5,
 			"id" : "bs2_default_library::@9e89cb6b53d747b62405"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "cyw43_driver_picow_cyw43_bus_pio_spi_pio_h::@c2fb4f534018e64680d5"
 		}
 	],
 	"id" : "blink::@6890427a1f51a3e7e1df",
@@ -2626,11 +2865,6 @@
 				"backtrace" : 8,
 				"fragment" : "pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/./bs2_default_padded_checksummed.S.o",
 				"role" : "libraries"
-			},
-			{
-				"backtrace" : 9,
-				"fragment" : "-lpico_cyw43_arch_none",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
@@ -2642,16 +2876,16 @@
 			"id" : "pico_stdlib::@bdd74ac35cb4d45b5067"
 		},
 		{
-			"backtrace" : 10,
+			"backtrace" : 12,
 			"id" : "hardware_clocks::@252b8e5380721ae85cc3"
 		},
 		{
-			"backtrace" : 9,
+			"backtrace" : 13,
 			"id" : "pico_stdlib::@bdd74ac35cb4d45b5067"
 		},
 		{
-			"backtrace" : 9,
-			"fragment" : "pico_cyw43_arch_none"
+			"backtrace" : 13,
+			"id" : "pico_cyw43_arch_none::@ee5b8847815b1d733645"
 		}
 	],
 	"name" : "blink",
@@ -2659,12 +2893,12 @@
 	"orderDependencies" : 
 	[
 		{
-			"backtrace" : 12,
-			"id" : "picotool::@6890427a1f51a3e7e1df"
+			"backtrace" : 15,
+			"id" : "blink::@6890427a1f51a3e7e1df"
 		},
 		{
-			"backtrace" : 12,
-			"id" : "blink::@6890427a1f51a3e7e1df"
+			"backtrace" : 15,
+			"id" : "picotool::@6890427a1f51a3e7e1df"
 		}
 	],
 	"paths" : 
@@ -2748,7 +2982,24 @@
 				77,
 				78,
 				79,
-				80
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97
 			]
 		},
 		{
@@ -3254,6 +3505,108 @@
 			"backtrace" : 5,
 			"compileGroupIndex" : 1,
 			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/cyw43_arch.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/cyw43_arch_poll.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/cyw43_arch_threadsafe_background.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_arch/cyw43_arch_freertos.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src/cyw43_ll.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src/cyw43_stats.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src/cyw43_lwip.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/lib/cyw43-driver/src/cyw43_ctrl.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cybt_shared_bus/cybt_shared_bus_driver.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pio/pio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_dma/dma.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_exception/exception.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cyw43_driver/cyw43_driver.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_async_context/async_context_threadsafe_background.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/Nima/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_async_context/async_context_base.c",
 			"sourceGroupIndex" : 0
 		}
 	],
